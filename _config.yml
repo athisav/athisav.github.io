@@ -28,7 +28,7 @@ twitter_username: YukiYukii2
 github_username:  athisav
 
 # Build settings
-remote_theme: riggraz/no-style-please
+theme: no-style-please
 plugins:
   - jekyll-feed
 
