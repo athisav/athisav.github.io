@@ -1,39 +1,4 @@
-<!DOCTYPE html>
-<html lang="en"><head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-  <title>
-    
-      About
-    
-  </title>
-
-  <!-- Begin Jekyll SEO tag v2.6.1 -->
-<meta name="generator" content="Jekyll v4.1.1" />
-<meta property="og:title" content="About" />
-<meta name="author" content="athisa goh" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="A weeb and programmer." />
-<meta property="og:description" content="A weeb and programmer." />
-<link rel="canonical" href="http://localhost:4000/about" />
-<meta property="og:url" content="http://localhost:4000/about" />
-<meta property="og:site_name" content="athisa’s blog" />
-<script type="application/ld+json">
-{"url":"http://localhost:4000/about","author":{"@type":"Person","name":"athisa goh"},"description":"A weeb and programmer.","headline":"About","@type":"WebPage","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="athisa's blog" />
-
-  <link rel="shortcut icon" type="image/x-icon" href="/./logo.png?" />
-  <link rel="stylesheet" href="http://localhost:4000/assets/css/main.css" />
-</head><body>
-    <main class="page-content" aria-label="Content">
-        <div class="wrapper">
-            <a href="http://localhost:4000">..</a>
-<h1>About</h1>
-<h2 id="a-weebs-pondering-thoughts-jotted-down">“a weeb’s pondering thoughts jotted down.”</h2>
+I"r<h2 id="a-weebs-pondering-thoughts-jotted-down">“a weeb’s pondering thoughts jotted down.”</h2>
 
 <hr data-content="intro" />
 
@@ -90,10 +55,4 @@ achieving week one clears in Savage tiers.</p>
 <p>For singleplayer games, I do play them albeit quite rarely. Some of my favorite single player games are <em>Yakuza 0</em>,
 <em>Persona 5</em>, and <em>Witcher 3</em>. There are lots more single player games that I like as my tastes lean in story-driven
 games.</p>
-
-
-        </div>
-    </main>
-
-    </body>
-</html>
+:ET

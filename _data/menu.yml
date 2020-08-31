@@ -3,7 +3,7 @@ entries:
     url: false
     entries:
       - title: about
-        url: "/about.html"
+        url: "/about"
       - title: twitter
         url: https://twitter.com/yukiyukii2
       - title: github
