@@ -3,8 +3,7 @@ author: athisa goh
 email: tincank@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A weeb and programmer.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "index" # the base hostname & protocol for your site
+url: https://athisav.github.io/ # the base hostname & protocol for your site
 
 permalink: /:slug.html
 favicon: "./logo.png?"
