@@ -1,33 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-01T03:16:33+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">athisa’s blog</title><subtitle>A weeb and programmer.</subtitle><author><name>athisa goh</name></author><entry><title type="html">Post Example With Hr</title><link href="http://localhost:4000/hr-example.html" rel="alternate" type="text/html" title="Post Example With Hr" /><published>2020-07-09T00:00:00+07:00</published><updated>2020-07-09T00:00:00+07:00</updated><id>http://localhost:4000/hr%20example</id><content type="html" xml:base="http://localhost:4000/hr-example.html">&lt;p&gt;Lorem ipsum&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. Nullam vestibulum metus eu purus malesuada, volutpat mattis leo facilisis. Sed consectetur, nisl et semper laoreet, velit augue congue nunc, eget eleifend odio erat eu sapien. Phasellus dictum efficitur dapibus. Morbi porta lacinia tincidunt. Nam aliquet est mi, nec lacinia ipsum elementum sed. Nam feugiat ipsum tortor, et pretium purus sollicitudin et.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-01T17:40:48+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">athisa’s blog</title><subtitle>A weeb and programmer.</subtitle><author><name>athisa goh</name></author><entry><title type="html">Virtual Youtubers</title><link href="http://localhost:4000/2020/09/01/virtual-youtubers.html" rel="alternate" type="text/html" title="Virtual Youtubers" /><published>2020-09-01T00:00:00+07:00</published><updated>2020-09-01T00:00:00+07:00</updated><id>http://localhost:4000/2020/09/01/virtual-youtubers</id><content type="html" xml:base="http://localhost:4000/2020/09/01/virtual-youtubers.html">&lt;p&gt;Virtual Youtubers or more commonly known as VTubers are becoming a hot topic
+in the anime community lately. Whether it being clips in Twitter or fan arts being shared
+in Pixiv, the rise of these idols are now seen across multiple platforms. What makes
+these virtual idols popular among the anime loving masses? When did they start
+getting popular and swarming my Youtube recommendations feed? These are some of the
+questions I ask myself as I dig into my personal journey into Virtual Youtubers.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Mauris viverra dictum ultricies&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Vestibulum&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo. Vestibulum porta tincidunt tellus, vitae ornare tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed nunc neque, tempor in iaculis non, faucibus et metus. Etiam id nisl ut lorem gravida euismod.&lt;/p&gt;
+&lt;p&gt;The year 2017, Donald Trump sworn into the oval office was the biggest
+news around. However as for myself, there are better things to pay attention to
+in the realm of programming and technology advancement. Browsing through Youtube
+was a common occurrence for me in between college classes. One thing that caught my eye
+was a Japanese video recommended to me from a channel called &lt;em&gt;Kizuna AI&lt;/em&gt;. Having been
+interested in Machine Learning and so forth I was very intrigued.&lt;/p&gt;
 
-&lt;p&gt;Fusce non velit cursus ligula mattis convallis vel at metus. Sed pharetra tellus massa, non elementum eros vulputate non. Suspendisse potenti. Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc. Sed massa quam, auctor in eros quis, porttitor tincidunt orci. Nulla convallis id sapien ornare viverra. Cras nec est lacinia ligula porta tincidunt. Nam a est eget ligula pellentesque posuere. Maecenas quis enim ac risus accumsan scelerisque. Aliquam vitae libero sapien. Etiam convallis, metus nec suscipit condimentum, quam massa congue velit, sit amet sollicitudin nisi tortor a lectus. Cras a arcu enim. Suspendisse hendrerit euismod est ac gravida. Donec vitae elit tristique, suscipit eros at, aliquam augue. In ac faucibus dui. Sed tempor lacus tristique elit sagittis, vitae tempor massa convallis.&lt;/p&gt;
+&lt;p&gt;A glimpse of her channel showed me a variety of gaming videos and video logs. Watching her
+I was quite disappointed as it did not to be an artificially created video made by Machine
+Learning as I had hoped. Her videos did not strike me fancy as they were mostly loud and fast
+talking rants akin to popular gaming Youtubers. Further search results showed me a different channel
+equally as popular named &lt;em&gt;Kaguya Luna&lt;/em&gt;, this further worsened my impression on Virtual Youtubers as
+she was even more rowdy. Nevertheless, their view counts and subscribers amount rather a lot surprising
+me.&lt;/p&gt;
 
-&lt;hr data-content=&quot;discussions&quot; /&gt;
-
-&lt;p&gt;This article has been discussed here:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#&quot;&gt;lobste.rs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#&quot;&gt;/r/webdev&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Feel free to reach out at my email to leave feedback and talk about the article.&lt;/p&gt;
-
-&lt;hr data-content=&quot;footnotes&quot; /&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Okay here I should put something about “ipsum”. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;same goes for this. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;I studied latin in high school but im not able to translate &lt;em&gt;anything&lt;/em&gt;! By the way this is a longer footnote and i think it is still pretty cool, even prettier than shortier ones even though it does not say anything useful but whatever. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>athisa goh</name></author><summary type="html">Lorem ipsum1 dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. Nullam vestibulum metus eu purus malesuada, volutpat mattis leo facilisis. Sed consectetur, nisl et semper laoreet, velit augue congue nunc, eget eleifend odio erat eu sapien. Phasellus dictum efficitur dapibus. Morbi porta lacinia tincidunt. Nam aliquet est mi, nec lacinia ipsum elementum sed. Nam feugiat ipsum tortor, et pretium purus sollicitudin et. Okay here I should put something about “ipsum”. &amp;#8617;</summary></entry></feed>
+&lt;p&gt;Over the years, memory of my encounter with the two Virtual Youtubers faded. There were mentions
+of an incident concerning Kizuna AI that trended quite a while in Twitter. As a result, most of
+Virtual Youtuber enthusiasts moved over to smaller and upcoming Virtual Youtubers. However, I was still not convinced to partake in this form of entertainment.&lt;/p&gt;</content><author><name>athisa goh</name></author><summary type="html">Virtual Youtubers or more commonly known as VTubers are becoming a hot topic in the anime community lately. Whether it being clips in Twitter or fan arts being shared in Pixiv, the rise of these idols are now seen across multiple platforms. What makes these virtual idols popular among the anime loving masses? When did they start getting popular and swarming my Youtube recommendations feed? These are some of the questions I ask myself as I dig into my personal journey into Virtual Youtubers.</summary></entry></feed>

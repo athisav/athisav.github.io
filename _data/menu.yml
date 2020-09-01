@@ -4,6 +4,8 @@ entries:
     entries:
       - title: about
         url: "/about"
+      - title: email
+        url: mailto:tincank@gmail.com
       - title: twitter
         url: https://twitter.com/yukiyukii2
       - title: github
