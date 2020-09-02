@@ -11,7 +11,7 @@ questions I ask myself as I dig into my personal journey into Virtual Youtubers.
 
 ---
 
-The year 2017, Donald Trump was sworn into the oval office was the biggest
+The year 2017, Donald Trump sworn into the oval office was the biggest
 news around. However, as for me, there are better things to pay attention to
 in the realm of programming and technology advancement. Browsing through Youtube
 was a common occurrence for me in between college classes. One thing that caught my eye
