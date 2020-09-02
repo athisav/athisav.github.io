@@ -19,7 +19,7 @@ was a Japanese video recommended to me from a channel called *Kizuna AI*. Having
 interested in Machine Learning and so forth I was very intrigued.
 
 A glimpse of her channel showed me a variety of gaming videos and video logs. Watching her,
-I was quite disappointed as it did not to be an artificially created video made by Machine
+I was quite disappointed as it was not an artificially created video made by Machine
 Learning as I had hoped. Her videos did not strike me fancy as they were mostly loud and fast
 talking rants akin to popular gaming Youtubers. Further search results showed me a different channel
 equally as popular named *Kaguya Luna*, this further worsened my impression on Virtual Youtubers as
@@ -43,7 +43,7 @@ Azur Lane, released some Virtual Youtuber inspired limited characters.
 Clearly, the international anime community took notice as my Youtube recommendations started pouring
 clips after clips of English translated Virtual Youtuber gameplay. Eventually I found myself watching
 a translated clip on *Natsuiro Matsuri* mostly not expecting anything. Shocked, I found myself enjoying
-myself more than I thought I would and this is coming from a background of not traditionally watching Youtubers.
+it more than I thought I would and this is coming from a background of not traditionally watching Youtubers.
 
 Sooner or later, I found myself in a rabbit hole watching various Virtual Youtubers from a company called
 *Hololive* and a select few from *Nijisanji*. Knowing this, I found my new guilty pleasure in watching daily
@@ -51,20 +51,20 @@ translated English clips and at times watching their livestreams.
 
 Before long I notice that more and more people are watching these Virtual Youtubers particularly from the anime
 community. Reddit posts filled up, Discords become more active, and Twitter posted more Virtual Youtuber related
-tweets. A turning point for the international community was when *Hololive* decided to add *Kiryu Coco* an English
-and Japanese speaking Virtual Youtuber. The fact that *Hololive* also noticed a market outside of Japan adding in
-various Chinese Virtual Youtubers and Indonesian-English speaking Virtual Youtubers means that they noticed the
-potential of a broader market.
+tweets. A turning point for the international community was when *Hololive* decided to add *Kiryu Coco* an
+English and Japanese speaking Virtual Youtuber. The fact that *Hololive* also noticed a market outside of Japan
+adding in various Chinese Virtual Youtubers and Indonesian-English speaking Virtual Youtubers means that
+there is a growing demand for them outside of Japan.
 
 At this point I only follow a number of Hololive clips and streams such as *Usada Pekora*, *Minato Aqua*, *Kiryu
 Coco* and *Ayunda Risu*. Currently I do not really follow a lot of *Nijisanji* Virtual Youtubers since I believe
-that *Hololive* has a more compelling livestreaming experience and detailed character roster. As of late I started
-to speculate why the boom on Virtual Youtubers happened and what are their advantages as well as disadvantages
-against conventional Youtubers or Twitch streamers.
+that *Hololive* has a more compelling livestreaming experience and detailed character roster. As of late I
+started to speculate why the boom on Virtual Youtubers happened and what are their advantages as well as
+disadvantages against conventional Youtubers or Twitch streamers.
 
 ---
 
-One of the most apparent reasons on why Virtual Youtubers is popular is because of their anime aesthetics.
+One of the most apparent reasons on why Virtual Youtubers are popular is because of their anime aesthetics.
 Anime has always been a more passive type of art style, in the sense that we are consuming anime typed
 entertainment more than we are interacting with them in a social sense. Watching anime or playing anime styled
 video games forms a desire for us to interact with our favorite anime casts and personalities such as
@@ -75,7 +75,7 @@ pandemic going on since the early 2020's, many of us have been stuck in our home
 of entertainment. Virtual Youtubers provide plentiful amounts of content for anime fans outside of the
 traditional anime TV shows and movies. Self-made content such as video game streams grant the audiences
 the ability to actively engage with their favorite Virtual Youtubers through Youtube chat or multiplayer
-video games with the audiences.
+video games.
 
 Another important point of Virtual Youtubers are their fabricated backstories, whether it being an
 anthropomorphic princess rabbit or a Japanese shrine maiden. These all add an interesting quality to their on
